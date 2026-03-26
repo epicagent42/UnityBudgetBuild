@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Budgeting App-1.1";
+const cacheName = "DefaultCompany-Budgeting App-1.2";
 const contentToCache = [
     "index.html",
     "manifest.webmanifest",
