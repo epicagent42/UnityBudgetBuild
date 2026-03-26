@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Budgeting App-1.0";
 const contentToCache = [
-    "Build/New folder.loader.js",
-    "Build/New folder.framework.js",
-    "Build/New folder.data",
-    "Build/New folder.wasm",
+    "Build/Build.loader.js",
+    "Build/Build.framework.js",
+    "Build/Build.data",
+    "Build/Build.wasm",
     "TemplateData/style.css"
 
 ];
