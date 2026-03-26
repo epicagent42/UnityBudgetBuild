@@ -1,8 +1,8 @@
 {
     "name": "Budgeting App",
-    "short_name": "Budget",
-    "start_url": ".",
-    "display": "standalone",
+    "short_name": "Budgeting App",
+    "start_url": "index.html",
+    "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
     "description": "",
@@ -12,4 +12,4 @@
       "type": "image/png",
       "purpose": "any maskable"
     }]
-}
+  }

@@ -1,7 +1,5 @@
 const cacheName = "DefaultCompany-Budgeting App-1.0";
 const contentToCache = [
-    "index.html",
-    "manifest.webmanifest",
     "Build/Build.loader.js",
     "Build/Build.framework.js",
     "Build/Build.data",
